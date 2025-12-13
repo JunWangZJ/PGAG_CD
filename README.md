@@ -11,6 +11,6 @@ Synthetic aperture radar (SAR) image change detection remains challenging due to
 
 ## Running
 
-Run the M2HG-CD demo files (tested in Matlab 2024B)! 
+Run the PGAG_CD demo files (tested in Matlab 2024B)! 
 
 If you have any queries, please contact me (36110@qzc.edu.cn).
