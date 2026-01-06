@@ -7,6 +7,12 @@ Synthetic aperture radar (SAR) image change detection remains challenging due to
 
 ## Citation
 
+If you use this code for your research, please cite our paper. Thank you!
+
+@ARTICLE{**, author={Jun Wang, Chunyang Li, Sanku Niu, Jiahui Li},
+journal={IEEE Geoscience and Remote Sensing Letters},
+title={Patch Group Affinity based Graph for Unsupervised SAR Image Change Detection},
+year={2026}.}
 
 
 ## Running
